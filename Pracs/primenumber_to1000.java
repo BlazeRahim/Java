@@ -15,7 +15,6 @@ public class primenumber_to1000 {
             if(flag == 0){
                 System.out.print(i+", ");
             }
-
         }
     }
 }
